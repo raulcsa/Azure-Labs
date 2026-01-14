@@ -2,13 +2,13 @@
 
 Este repositorio contiene una colección de laboratorios prácticos diseñados para cubrir todos los objetivos del examen **AZ-104: Microsoft Azure Administrator**. Cada guía detalla paso a paso la configuración y administración de servicios clave en la nube de Azure.
 
-## 🚀 Propósito del Repositorio
+## Propósito del Repositorio
 
 El objetivo de estos laboratorios es proporcionar experiencia práctica en la implementación, administración y supervisión de soluciones de identidad, gobernanza, almacenamiento, computación y redes virtuales en un entorno de Microsoft Azure.
 
 ---
 
-## 📂 Estructura de los Laboratorios
+## Estructura de los Laboratorios
 
 Los contenidos se dividen en los pilares fundamentales del examen:
 
@@ -38,7 +38,7 @@ Los contenidos se dividen en los pilares fundamentales del examen:
 
 ---
 
-## 🛠️ Requisitos Previos
+## Requisitos Previos
 
 Para completar estos laboratorios necesitarás:
 * Una suscripción activa de Azure (puedes usar una cuenta gratuita).
@@ -47,11 +47,11 @@ Para completar estos laboratorios necesitarás:
 
 ---
 
-## 📝 Contribuciones
+## Contribuciones
 
 Si deseas añadir un nuevo laboratorio o corregir algún paso en las guías existentes, siéntete libre de abrir un *Pull Request* o crear un *Issue*.
 
 ---
 
-**Autor:** [RaulCSA]  
+**Autor:** [Raúl Casado San Andrés]  
 **Certificación:** Preparación para Microsoft Certified: Azure Administrator Associate.
